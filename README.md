@@ -1,4 +1,4 @@
-# opennotebooklm / AI Podcast Generator by GenMini.ai
+# OpenNotebookLM / AI Podcast Generator by GenMini.ai
 Explore any AI topic, and instantly get a fun podcast episode to learn from!
 
 ## Overview
